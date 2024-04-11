@@ -1,0 +1,18 @@
+Async --> 
+    - writeFile(),
+    - appendFile(),
+    - readFile(),
+    - rename(),
+    - Unlink(),
+    - Exists()
+
+Sync -->
+    - writeFileSync(),
+    - appendFileSync(),
+    - readFileSync(),
+    - RenameSync(),
+    - UnlinkSync(),
+    - ExistsSync()
+
+Const fs = require('fs');
+fs.writeFile()
