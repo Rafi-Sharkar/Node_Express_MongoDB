@@ -1,0 +1,19 @@
+{
+  "name": "tut_08",
+  "version": "1.0.0",
+  "description": "External module tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon"
+  ],
+  "author": "Rafi Sharkar",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.10.0"
+  }
+}
