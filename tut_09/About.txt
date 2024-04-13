@@ -1,0 +1,5 @@
+Cover those topic___
+* What is routing? How to do it?
+* Installing nodemon package
+* How to get the requested url
+* Reading html files in server based on requested url
